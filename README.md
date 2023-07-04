@@ -1,5 +1,5 @@
 # [Finvest]()
-#### Finanza is a financial website built using all the latest technologies like Bootstrap 5, HTML5 & CSS3. This website comes with a well-designed layout to welcome visitors and keep them engaged. Also,  the fully responsive  is cross-browser compatible and you can work hassle-free as it responds to all available browsers without breaking the layout down.  It has a good color scheme that is relaxing for the eyes. The multi-page has a clean and customizable codebase that enables easy and effortless customization.
+#### Finvest is a financial website built using all the latest technologies like Bootstrap 5, HTML5 & CSS3. This website comes with a well-designed layout to welcome visitors and keep them engaged. Also,  the fully responsive  is cross-browser compatible and you can work hassle-free as it responds to all available browsers without breaking the layout down.  It has a good color scheme that is relaxing for the eyes. The multi-page has a clean and customizable codebase that enables easy and effortless customization.
 
 
 
